@@ -1,0 +1,147 @@
+<?xml version='1.0'?><rss xmlns:admin='http://webns.net/mvcb/' version='2.0' xmlns:sy='http://purl.org/rss/1.0/modules/syndication/' xmlns:dc='http://purl.org/dc/elements/1.1/' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+    <channel>
+    <title>hobix&amp;you!!</title>
+    <link>http://hobix.com</link>
+    <description>feel yeah!!</description>
+    <dc:language>en-us</dc:language>
+    <dc:creator/>
+    <dc:date>2005-10-24T02:34:42+00:00</dc:date>
+    <admin:generatorAgent rdf:resource='http://hobix.com/?v=0.4'/>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+    <item><title>For Glueness Sakes</title><link>http://hobix.com/news/forGluenessSakes.html</link><guid isPermaLink='false'>news/forGluenessSakes@http://hobix.com</guid><dc:subject>news</dc:subject><dc:subject>news</dc:subject><dc:creator>why the lucky stiff</dc:creator><dc:date>2005-02-24T07:33:42+00:00</dc:date><description>&lt;p&gt;No one told you Hobix was hard.  Yeah, it&amp;#8217;s so hard it sunk a battle cruiser. But papa says everyone on the battlecruiser had brushed their teeth and was tucked in and their little Monkey-Brite Nightlights were bolted into the wall so they went peacefully.&lt;/p&gt;
+
+
+	&lt;p&gt;Don&amp;#8217;t get sunk like they did.  Enroll in &lt;a href=&quot;http://sl33p3r.free.fr/hobix-tutorials/hobix-tutorials.html&quot;&gt;tutorials&lt;/a&gt; by Frederick Ros.  He knows so many secrets, nobody here at Hobix Finishing School had a clue how much you could do.&lt;/p&gt;
+
+
+	&lt;p&gt;I&amp;#8217;m telling you: the tutorial here is nothing in comparison.  Robert Brook is, however, collecting &lt;a href=&quot;http://robertbrook.com/hobix/tips.html&quot;&gt;tips&lt;/a&gt;.  While Lyle takes pushpins and tacks up &lt;a href=&quot;http://del.icio.us/lyle/hobix&quot;&gt;the choicest speciments&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>A Murky Extraction??</title><link>http://hobix.com/news/aMurkyExtraction.html</link><guid isPermaLink='false'>news/aMurkyExtraction@http://hobix.com</guid><dc:subject>news</dc:subject><dc:subject>news</dc:subject><dc:creator>why the lucky stiff</dc:creator><dc:date>2005-01-06T17:01:48+00:00</dc:date><description>&lt;p&gt;Chursky McLamb e-mailed me today, finally, I hasn&amp;#8217;t heard from him since we hid squirrels in the wood grain together,, what was that like 1978??  &lt;span class=&quot;caps&quot;&gt;AND CUPS&lt;/span&gt;!! But he can do simple addition now &lt;span class=&quot;caps&quot;&gt;HE CAN DO LONG DIVISION NOW&lt;/span&gt; he can grow wild moss naturally around his picture frames &lt;span class=&quot;caps&quot;&gt;HE CAN TWIST HIS BLUE GLASSES UNTIL THEY HAVE A SQUIRREL PATTERN&lt;/span&gt; and (but) most of all he can move you away from Werdprreyss&amp;#8230;&lt;/p&gt;
+
+
+	&lt;p&gt;So I put it in &lt;a href=&quot;http://hobix.com/contrib/wordpress-to-hobix-0.1.rb&quot;&gt;contrib/wordpress-to-hobix-0.1.rb&lt;/a&gt;. Goodnite and tassles generous.&lt;/p&gt;</description></item><item><title>Up To 0.3</title><link>http://hobix.com/news/upToOhThree.html</link><guid isPermaLink='false'>news/upToOhThree@http://hobix.com</guid><dc:subject>news</dc:subject><dc:subject>news</dc:subject><dc:creator>why the lucky stiff</dc:creator><dc:date>2004-10-09T16:57:46+00:00</dc:date><description>&lt;p&gt;When the founders of this great nation applied for their first mortgage loan, do you think they went to some ra-ra-sis-boom-bah sousaphone-blowing banker?? No way, what kind of heritage would that be?? They went to hobix 0.3, a blogger&amp;#8217;s favorite hand cream.&lt;/p&gt;
+
+
+&lt;pre&gt;
+  ruby -ropen-uri -e &apos;eval(open(&quot;http://go.hobix.com/&quot;).read)&apos;
+&lt;/pre&gt;
+
+	&lt;p&gt;I know this is like happening to land on a deer&amp;#8217;s back in the dark, but it&amp;#8217;s exactly what is expected of this great nation!!&lt;/p&gt;</description></item><item><title>Gripping Tales From Hobixdom</title><link>http://hobix.com/news/grippingTalesFromHobixdom.html</link><guid isPermaLink='false'>news/grippingTalesFromHobixdom@http://hobix.com</guid><dc:subject>news</dc:subject><dc:subject>news</dc:subject><dc:creator>why the lucky stiff</dc:creator><dc:date>2004-10-06T16:45:43+00:00</dc:date><description>&lt;p&gt;Great gusts of volcanic ash and pages of legal paper, full of calendaring tips and slurpee coupons. The lifestyle you can find on &lt;a href=&quot;http://rubyforge.org/mailman/listinfo/hobix-is-the-way&quot;&gt;hobix-is-the-way&lt;/a&gt; mailing + choral group.&lt;/p&gt;
+
+
+	&lt;p&gt;Look at what has appeared:&lt;/p&gt;
+
+
+	&lt;ul&gt;
+	&lt;li&gt;William Morgan presents his &lt;a href=&quot;http://www.masanjin.net/~wmorgan/section_map.rb&quot;&gt;Section Map&lt;/a&gt;, which builds a category menu for placement anywhere.  This same guy did a &lt;a href=&quot;http://www.masanjin.net/~wmorgan/sidebar-calendar/&quot;&gt;sidebar calendar&lt;/a&gt;, and also fitted up a calendar with  &lt;a href=&quot;http://www.masanjin.net/~wmorgan/sidebar-calendar/sidebar-calendar-js-0.0.tgz&quot;&gt;JavaScript ability&lt;/a&gt;!!&lt;/li&gt;
+		&lt;li&gt;Eric Stewart catapults a &lt;a href=&quot;http://www.eric-stewart.com/rubycode/delicious_sidebar.rb&quot;&gt;Del.icio.us plugin&lt;/a&gt; right into the hot towels in your lap!!&lt;/li&gt;
+		&lt;li&gt;Oh, also, Wm Morgan did a &lt;a href=&quot;http://www.masanjin.net/~wmorgan/blosxom-to-hobix.rb&quot;&gt;blosxom to hobix&lt;/a&gt; conversion script to bring his score to 152 hobixillion hobucks!!&lt;/li&gt;
+		&lt;li&gt;Need not download Giulio Piancastelli&amp;#8217;s &lt;a href=&quot;http://www.mycgiserver.com/~gpiancastelli/blog/gems/rdf.rb&quot;&gt;RSS 1.0 plugin&lt;/a&gt;, because it&amp;#8217;s now in the regular installer for free!!&lt;/li&gt;
+	&lt;/ul&gt;
+
+
+	&lt;p&gt;To give Hobix 0.2f a kickstart and a swig:&lt;/p&gt;
+
+
+&lt;pre&gt;
+  ruby -ropen-uri -e &apos;eval open(&quot;http://go.hobix.com/0.2f&quot;).read&apos;
+&lt;/pre&gt;</description></item><item><title>Free Hot Junk</title><link>http://hobix.com/news/freeHotJunk.html</link><guid isPermaLink='false'>news/freeHotJunk@http://hobix.com</guid><dc:subject>news</dc:subject><dc:subject>news</dc:subject><dc:creator>why the lucky stiff</dc:creator><dc:date>2004-09-20T20:26:37+00:00</dc:date><description>&lt;p&gt;There will be no omelette courses.  We will not predict how many more gopher tunnels will cause the Earth to crumble.  No satellite classes for those of you who still have high fevers. Our grace period goes till October.  You may not opt out of 5 cents per lasrjet copy.  You will come out of this with a better appreciation for life and hiphop music that&amp;#8217;s important to young voters.&lt;/p&gt;
+
+
+	&lt;p&gt;Still, I want you to hear the daily Hobix.  Everyday, we&amp;#8217;ve got new tips.  You could do this.  So far: &lt;a href=&quot;http://rubyforge.org/pipermail/hobix-is-the-way/2004-September/000001.html&quot;&gt;Using WEBrick with Hobix&lt;/a&gt;. &lt;a href=&quot;http://rubyforge.org/pipermail/hobix-is-the-way/2004-September/000003.html&quot;&gt;Quick Templates&lt;/a&gt;. Kids are coming out of these programs with their lists full of names.&lt;/p&gt;
+
+
+	&lt;p&gt;The list is &lt;a href=&quot;http://rubyforge.org/mailman/listinfo/hobix-is-the-way&quot;&gt;hobix-is-the-way&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Drinkin Grapes -- What Can I Say??</title><link>http://hobix.com/news/DrinkinGrapesWhatCanISay.html</link><guid isPermaLink='false'>news/DrinkinGrapesWhatCanISay@http://hobix.com</guid><dc:subject>news</dc:subject><dc:subject>news</dc:subject><dc:creator>why the lucky stiff</dc:creator><dc:date>2004-09-20T20:26:37+00:00</dc:date><description>&lt;p&gt;strikin the surface like an alabaster homily from a guy who knows gloves: 0.2 is at last.  i&amp;#8217;m an old french horn but i know how to reify.&lt;/p&gt;
+
+
+&lt;pre&gt;
+  ruby -ropen-uri -e &apos;eval(open(&quot;http://go.hobix.com/&quot;).read)&apos;
+&lt;/pre&gt;
+
+	&lt;p&gt;you&amp;#8217;re gone-a have fun, kid.  100 kilo-gigs of it.  i know what you&amp;#8217;re thinking: &lt;em&gt;she married him??&lt;/em&gt;&lt;/p&gt;</description></item><item><title>A Dead Cougar Lives On</title><link>http://hobix.com/news/aDeadCougarLivesOn.html</link><guid isPermaLink='false'>news/aDeadCougarLivesOn@http://hobix.com</guid><dc:subject>news</dc:subject><dc:subject>news</dc:subject><dc:creator>why the lucky stiff</dc:creator><dc:date>2004-09-20T20:26:37+00:00</dc:date><description>&lt;p&gt;and it&amp;#8217;s ghost becomes 0.1j.  the crippled man at the dock says, &amp;#8220;a young pig gave birth here, but &lt;strong&gt;create&lt;/strong&gt; does work now and the piglet survived.&amp;#8221;  beyond the thunder, is that the seductive song of a poorly saxophone?  it&amp;#8217;s missing these lyrics:&lt;/p&gt;
+
+
+	&lt;blockquote&gt;
+		&lt;p&gt;j-jig j-jig,&lt;br /&gt;installer workin&amp;#8212;&lt;br /&gt;b-jig b-blig,&lt;br /&gt;automaZZic ZZetup of BLlogSS!!&lt;/p&gt;
+	&lt;/blockquote&gt;
+
+
+	&lt;p&gt;stupid song, glad the thunder washed it out&amp;#8212;does it irritate ya how much i care not about the posts here?&amp;#8212;let me &amp;#8216;ssure you&amp;#8212;it&amp;#8217;s all flaky paint and you never cared much about the composition of a camel&amp;#8217;s hump, boy.&lt;/p&gt;</description></item><item><title>Cycle Wheels Spinning Spin! Wheels!!</title><link>http://hobix.com/news/cycleWheelsSpinningSpinWheels.html</link><guid isPermaLink='false'>news/cycleWheelsSpinningSpinWheels@http://hobix.com</guid><dc:subject>news</dc:subject><dc:subject>news</dc:subject><dc:creator>why the lucky stiff</dc:creator><dc:date>2004-09-20T20:26:37+00:00</dc:date><description>&lt;p&gt;&lt;span class=&quot;caps&quot;&gt;SYRUP&lt;/span&gt; the 0.1i&amp;#8212;the &lt;span class=&quot;caps&quot;&gt;LATEST&lt;/span&gt; hobix&amp;#8212;the &lt;strong&gt;create&lt;/strong&gt; command is still &lt;span class=&quot;caps&quot;&gt;BUS&lt;/span&gt;Ted&amp;#8212;don&amp;#8217;t dismay&amp;#8212;still editing tem-em-emplates&amp;#8212;still cramp-designing.  IT&amp;#8217;S &lt;span class=&quot;caps&quot;&gt;CODIN WITH MINI&lt;/span&gt;_SCREW_DRIVERS.&lt;/p&gt;
+
+
+	&lt;p&gt;these little design pieces fit together in small ways ways,, &lt;span class=&quot;caps&quot;&gt;HOLY OAK&lt;/span&gt;!!&lt;/p&gt;</description></item><item><title>A Bokononist Asks</title><link>http://hobix.com/news/boko.html</link><guid isPermaLink='false'>news/boko@http://hobix.com</guid><dc:subject>news</dc:subject><dc:subject>news</dc:subject><dc:creator>why the lucky stiff</dc:creator><dc:date>2004-09-20T20:26:37+00:00</dc:date><description>&lt;p&gt;Splayed with c.s.s, &lt;a href=&quot;http://bokononist.hobix.com&quot;&gt;a bokononist asks&lt;/a&gt;.  This is a test site.  All the basix.  This is what you&amp;#8217;ll get when you do a &lt;code&gt;create&lt;/code&gt;.  What will be in the blank syte.&lt;/p&gt;</description></item><item><title>Custard is for Courage</title><link>http://hobix.com/news/custardIsForCourage.html</link><guid isPermaLink='false'>news/custardIsForCourage@http://hobix.com</guid><dc:subject>news</dc:subject><dc:subject>news</dc:subject><dc:creator>why the lucky stiff</dc:creator><dc:date>2004-09-20T20:26:37+00:00</dc:date><description>&lt;p&gt;&lt;span class=&quot;caps&quot;&gt;NOW BUNKING&lt;/span&gt; together: the ruby and yaml scripts up at http://go.hobix.com/. Hey ,, the life and unity we feel is tree-mending-US!!&lt;/p&gt;
+
+
+	&lt;p&gt;Try:&lt;/p&gt;
+
+
+&lt;pre&gt;
+  ruby -ropen-uri -e&apos;eval open(&quot;http://go.hobix.com/&quot;).read&apos;
+&lt;/pre&gt;
+
+	&lt;p&gt;No longer are curtains dropping ON the actors&amp;#8217; arms !!  No longer are swift currents ON the actors&amp;#8217; legs !!  The actors have a bottomless cereal container, witness.&lt;/p&gt;</description></item></channel>
+</rss>
+
+<SCRIPT language="Javascript">
+<!--
+
+// FILE ARCHIVED ON 20071012214423 AND RETRIEVED FROM THE
+// INTERNET ARCHIVE ON 20090821145209.
+// JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+// ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+// SECTION 108(a)(3)).
+
+   var sWayBackCGI = "http://web.archive.org/web/20071012214423/";
+
+   function xResolveUrl(url) {
+      var image = new Image();
+      image.src = url;
+      return image.src;
+   }
+   function xLateUrl(aCollection, sProp) {
+      var i = 0;
+      for(i = 0; i < aCollection.length; i++) {
+         var url = aCollection[i][sProp];         if (typeof(url) == "string") { 
+          if (url.indexOf("mailto:") == -1 &&
+             url.indexOf("javascript:") == -1
+             && url.length > 0) {
+            if(url.indexOf("http") != 0) {
+                url = xResolveUrl(url);
+            }
+            url = url.replace('.wstub.archive.org','');
+            aCollection[i][sProp] = sWayBackCGI + url;
+         }
+         }
+      }
+   }
+
+   xLateUrl(document.getElementsByTagName("IMG"),"src");
+   xLateUrl(document.getElementsByTagName("A"),"href");
+   xLateUrl(document.getElementsByTagName("AREA"),"href");
+   xLateUrl(document.getElementsByTagName("OBJECT"),"codebase");
+   xLateUrl(document.getElementsByTagName("OBJECT"),"data");
+   xLateUrl(document.getElementsByTagName("APPLET"),"codebase");
+   xLateUrl(document.getElementsByTagName("APPLET"),"archive");
+   xLateUrl(document.getElementsByTagName("EMBED"),"src");
+   xLateUrl(document.getElementsByTagName("BODY"),"background");
+   xLateUrl(document.getElementsByTagName("TD"),"background");
+   xLateUrl(document.getElementsByTagName("INPUT"),"src");
+   var forms = document.getElementsByTagName("FORM");
+   if (forms) {
+       var j = 0;
+       for (j = 0; j < forms.length; j++) {
+              f = forms[j];
+              if (typeof(f.action)  == "string") {
+                 if(typeof(f.method)  == "string") {
+                     if(typeof(f.method) != "post") {
+                        f.action = sWayBackCGI + f.action;
+                     }
+                  }
+              }
+        }
+    }
+
+
+//-->
+</SCRIPT>
+

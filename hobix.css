@@ -1,0 +1,114 @@
+html, body {
+    font-family: verdana, arial, sans-serif;
+} 
+table {
+    background-color: #222;
+    color: #fdc;
+    font-family: georgia, serif;
+    font-size: 12pt;
+    padding: 5px;
+}
+th {
+    color: white;
+    padding-top: 10px;
+}
+td {
+    border-top: solid 1px #eee;
+}
+pre {
+    background-color: #FFFFCC;
+    color: black;
+    font-family: Lucida Console, monospace;
+    font-size: 10pt;
+    font-weight: bold;
+    padding: 10px;
+}
+#B a,
+#B a:link,
+#B a:visited   { 
+    color: #66CCFF; 
+    text-decoration: underline;
+}
+#B a:active,
+#B a:hover     { color: #FFFFCC;  }
+
+#A {
+    border-right: solid 5px #DD3366;
+    background-color: black;
+    width: 763px; 
+} 
+#B {
+    float: right; 
+    background-color: black; 
+    color: #DDD;
+    margin: 0px;
+    padding: 0px;
+    width: 621px;
+}
+#B p {
+    padding: 8px;
+}
+#C {
+    background-color: #FF5599; 
+    margin: 0px;
+    padding: 200px 10px 10px 10px; 
+    color: white; 
+    width: 122px;
+}
+#C h2 {
+    margin: 12px 0px 0px 0px;
+}
+#C a:link {
+    color: #0055CC;
+    font-weight: bold;
+}
+#B .titleBar {
+    color: black;
+    background-color: #FFFFFF;
+    padding: 0px 10px 0px 10px;
+    border-top: solid 1px #999;
+    border-bottom: solid 4px #666;
+}
+#B .entryTitle {
+    float: right;
+    font-size: 24pt;
+    text-align: right;
+}
+#B .entryDate {
+    font-size: 11pt;
+    line-height: 24pt;
+}
+#B .entryBody {
+    font-size: 13pt;
+}
+#B .learnTitle {
+    border-bottom: solid 15px #444;
+    background: url(/strip02.jpg);
+    color: white;
+    padding: 40px 10px 0px 10px;
+}
+#B .learnBody {
+    font-size: 13pt;
+    padding: 20px;
+}
+#B .learnBody a:link {
+    color: #CCEEFF;
+}
+#B .learnBody a:visited {
+    color: #CCDDEE;
+}
+#B .learnBody h1 {
+    font-size: 18pt;
+}
+#B .learnLinks {
+    padding: 3px 10px;
+    font-size: 10pt;
+    font-weight: bold;
+    text-align: right;
+}
+#B .learnLinks a:link {
+    color: #CCEEFF;
+}
+#B .learnLinks a:visited {
+    color: #DDDDDD;
+}
