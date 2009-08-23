@@ -18,7 +18,7 @@ entries:
 - !^entry 
   title: For Glueness Sakes
   created: 2005-02-24 02:33:22 -05:00
-  updated: 2009-08-22 14:49:31 -04:00
+  updated: 2009-08-23 08:40:08 -04:00
   author: *id001
   content: !str:RedCloth::TextileDoc "No one told you Hobix was hard. Yeah, it\xE2\x80\x99s so hard it sunk a battle cruiser. But papa says everyone on the battlecruiser had brushed their teeth and was tucked in and their little Monkey-Brite Nightlights were bolted into the wall so they went peacefully.\n\n\
     Don\xE2\x80\x99t get sunk like they did. Enroll in \"tutorials\":http://sl33p3r.free.fr/hobix-tutorials/hobix-tutorials.html by Frederick Ros. He knows so many secrets, nobody here at Hobix Finishing School had a clue how much you could do.\n\n\
@@ -26,14 +26,14 @@ entries:
 - !^entry 
   title: A Murky Extraction??
   created: 2005-01-06 12:01:09 -05:00
-  updated: 2009-08-22 14:49:27 -04:00
+  updated: 2009-08-23 08:40:08 -04:00
   author: *id001
   content: !str:RedCloth::TextileDoc "Chursky McLamb e-mailed me today, finally, I hasn\xE2\x80\x99t heard from him since we hid squirrels in the wood grain together,, what was that like 1978?? AND CUPS!! But he can do simple addition now HE CAN DO LONG DIVISION NOW he can grow wild moss naturally around his picture frames HE CAN TWIST HIS BLUE GLASSES UNTIL THEY HAVE A SQUIRREL PATTERN and (but) most of all he can move you away from Werdprreyss\xE2\x80\xA6\n\n\
     So I put it in \"contrib/wordpress-to-hobix-0.1.rb\":/hobix/contrib/wordpress-to-hobix-0.1.rb. Goodnite and tassles generous."
 - !^entry 
   title: Up To 0.3
   created: 2004-10-09 12:57:48 -04:00
-  updated: 2009-08-22 14:57:07 -04:00
+  updated: 2009-08-23 08:40:08 -04:00
   author: *id001
   content: !str:RedCloth::TextileDoc "When the founders of this great nation applied for their first mortgage loan, do you think they went to some ra-ra-sis-boom-bah sousaphone-blowing banker?? No way, what kind of heritage would that be?? They went to hobix 0.3, a blogger\xE2\x80\x99s favorite hand cream.\n\n\
     pre. ruby -ropen-uri -e 'eval(open(\"http://go.hobix.com/\").read)'\n\n\
@@ -41,7 +41,7 @@ entries:
 - !^entry 
   title: Gripping Tales From Hobixdom
   created: 2004-10-06 12:44:41 -04:00
-  updated: 2009-08-22 15:06:43 -04:00
+  updated: 2009-08-23 08:40:08 -04:00
   author: *id001
   content: !str:RedCloth::TextileDoc "Great gusts of volcanic ash and pages of legal paper, full of calendaring tips and slurpee coupons. The lifestyle you can find on \"hobix-is-the-way\":http://rubyforge.org/mailman/listinfo/hobix-is-the-way mailing + choral group.\n\n\
     Look at what has appeared:\n\n\
@@ -54,7 +54,7 @@ entries:
 - !^entry 
   title: Free Hot Junk
   created: 2004-09-11 13:24:20 -04:00
-  updated: 2009-08-22 15:10:10 -04:00
+  updated: 2009-08-23 08:40:08 -04:00
   author: *id001
   content: !str:RedCloth::TextileDoc "There will be no omelette courses. We will not predict how many more gopher tunnels will cause the Earth to crumble. No satellite classes for those of you who still have high fevers. Our grace period goes till October. You may not opt out of 5 cents per lasrjet copy. You will come out of this with a better appreciation for life and hiphop music that\xE2\x80\x99s important to young voters.\n\n\
     Still, I want you to hear the daily Hobix. Everyday, we\xE2\x80\x99ve got new tips.  You could do this.  So far: \"Using WEBrick with Hobix\":http://rubyforge.org/pipermail/hobix-is-the-way/2004-September/000001.html. \"Quick Templates\":http://rubyforge.org/pipermail/hobix-is-the-way/2004-September/000003.html. Kids are coming out of these programs with their lists full of names.\n\n\
@@ -62,7 +62,7 @@ entries:
 - !^entry 
   title: Drinkin Grapes -- What Can I Say??
   created: 2004-09-10 13:46:28 -04:00
-  updated: 2009-08-22 15:10:01 -04:00
+  updated: 2009-08-23 08:40:08 -04:00
   author: *id001
   content: !str:RedCloth::TextileDoc "strikin the surface like an alabaster homily from a guy who knows gloves: 0.2 is at last. i\xE2\x80\x99m an old french horn but i know how to reify.\n\n\
     pre. ruby -ropen-uri -e 'eval(open(\"http://go.hobix.com/\").read)'\n\n\
@@ -70,7 +70,7 @@ entries:
 - !^entry 
   title: A Dead Cougar Lives On
   created: 2004-08-30 02:30:27 -04:00
-  updated: 2009-08-22 15:08:18 -04:00
+  updated: 2009-08-23 08:40:08 -04:00
   author: *id001
   content: !str:RedCloth::TextileDoc "and it\xE2\x80\x99s ghost becomes 0.1j. the crippled man at the dock says, \xE2\x80\x9Ca young pig gave birth here, but create does work now and the piglet survived.\xE2\x80\x9D beyond the thunder, is that the seductive song of a poorly saxophone? it\xE2\x80\x99s missing these lyrics:\n\n\
     bq. j-jig j-jig,\n\
@@ -81,20 +81,20 @@ entries:
 - !^entry 
   title: Cycle Wheels Spinning Spin! Wheels!!
   created: 2004-08-24 13:36:34 -04:00
-  updated: 2009-08-22 15:09:38 -04:00
+  updated: 2009-08-23 08:40:08 -04:00
   author: *id001
   content: !str:RedCloth::TextileDoc "SYRUP the 0.1i\xE2\x80\x94the LATEST hobix\xE2\x80\x94the **create** command is still BUSTed\xE2\x80\x94don\xE2\x80\x99t dismay\xE2\x80\x94still editing tem-em-emplates\xE2\x80\x94still cramp-designing. IT\xE2\x80\x99S CODIN WITH MINI_SCREW_DRIVERS.\n\n\
     these little design pieces fit together in small ways ways,, HOLY OAK!!"
 - !^entry 
   title: A Bokononist Asks
   created: 2004-05-22 17:50:57 -04:00
-  updated: 2009-08-22 15:07:42 -04:00
+  updated: 2009-08-23 08:40:08 -04:00
   author: *id001
   content: !str:RedCloth::TextileDoc "Splayed with c.s.s, \"a bokononist asks\":http://bokononist.hobix.com/. This is a test site. All the basix. This is what you\xE2\x80\x99ll get when you do a create. What will be in the blank syte.\n"
 - !^entry 
   title: Custard Is For Courage
   created: 2004-04-13 11:46:37 -04:00
-  updated: 2009-08-22 15:09:08 -04:00
+  updated: 2009-08-23 08:40:08 -04:00
   author: *id001
   content: !str:RedCloth::TextileDoc "NOW BUNKING together: the ruby and yaml scripts up at http://go.hobix.com/. Hey ,, the life and unity we feel is tree-mending-US!!\n\n\
     Try:\n\n\
